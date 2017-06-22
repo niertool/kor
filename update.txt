@@ -1,0 +1,534 @@
+﻿1. 증상: 3회차 후반 탑 진입 해킹후 엘리베이터
+-> 데볼,포폴 스토리 완료후 메인 스토리 진행 안됨.
+
+data012.cpk_unpacked/ph3/out/p300.dat/p300_d86d80b1_scp.bin
+
+
+2. 3회차 A2,9S 선택 문구 표기 수정
+
+Support 9S.  <-- 표기 수정
+
+data012.cpk_unpacked/ph3/out/p300.dat/p300_73ee82d4_scp.bin
+
+
+3. 서브 퀘스트 - 천재 발명가
+
+투자 금액 표기 오류
+
+data013.cpk_unpacked\wd1\out\g11516.dat\g11516_2ccba2ea_scp.bin
+
+
+4. 시스템 로드안입니다. = Loading system data... ---> 시스템 데이터 로딩중...
+
+data009.cpk_unpacked/txtmess/out/txt_core_us.dat/txt_core.tmd
+
+
+5. 없는 장응데이! = Play with Us! ---> 언니 놀아줘!
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+
+6. 퀘스트, 아이템 획득, 아이템 사용 등
+
+을(를),은(는) 관련으로 맞추어 수정
+
+플스판 영상을 참조하여 아이템 획득시 "획득 했습니다" 와
+
+퀘스트 관련 "갱신 했습니다" 로 수정
+
+팁 --> 칩 수정
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_hud_us.dat/txt_hud.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_hud_add_us.dat/txt_hud_add.tmd
+
+
+7. 무기 이름 수정(모든 무기 수집 공략 참조)
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+
+8. 팁 --> 칩 수정
+
+철자가 자연스럽지 못한 부분 수정
+
+data009.cpk_unpacked/txtmess/out/txt_pause_us.dat/txt_pause.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_hud_us.dat/txt_hud.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_hud_add_us.dat/txt_hud_add.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+
+9. 서브퀘스트 이름 및 아이템 UP + 의 특수문자 + 수정
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+미아의 여동생 --> 미아가 된 여동생
+
+데이터 해석의 귀신·이 --> 데이터 해석의 귀신 2
+
+창고차례 --> 창고지기
+
+창고차례 2 --> 창고지기 2
+
+창고차례 3 --> 창고지기 3
+
+무기가게의 의뢰 --> 무기상의 의뢰
+
+고물상의 의뢰 --> 도구상의 의뢰
+
+잔카스의 연구 --> 잭애스 연구
+
+물색 리본 --> 블루 리본
+
+아이템 +1 , +2 , +3 ~~~ --> 특수문자 ＋ 수정
+
+
+10. 무기 스토리 검수 수정(라리오스)
+
+data009.cpk_unpacked/txtmess/out/txt_pause_add_us.dat/txt_pause_add.tmd
+
+
+11. 퀘스트명 수정
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+히네크레모노 --> 삐뚤어진 자
+
+유랑의 커플 --> 유랑 커플
+
+배반의 요르하 --> 배신의 요르하
+
+포폴의 용무 --> 포폴의 부탁
+
+데볼·포폴의 잡무 --> 데볼·포폴의 잡일
+
+스탬프 모음 --> 스탬프 모으기
+
+틀어박히는 로보트 --> 틀어박힌 로봇
+
+또 틀어박히는 로보트 --> 또 틀어박힌 로봇
+
+역시 틀어박히는 로보트 --> 역시나 틀어박힌 로봇
+
+에밀의 결의 --> 에밀의 결심
+
+구세계의 정보 --> 구세계 정보
+
+성의 보물 찾기 --> 성에서 보물 찾기
+
+나쁜 로보트 퇴치 --> 나쁜 로봇 퇴치
+
+전송 단말의 고장 --> 전송 장치의 고장
+
+통신 환경의 조사 --> 통신 환경 조사
+
+통신 환경의 개선 --> 통신 환경 개선
+
+실종한 레지스탕스 --> 실종된 레지스탕스
+
+로보트 도장·흰색대 --> 로봇 도장 - 흰 띠
+
+로보트 도장·다대 --> 로봇 도장 - 갈색 띠
+
+로보트 도장·흑대 --> 로봇 도장 - 검은 띠
+
+로보트 도장·홍백대 --> 로봇 도장 - 홍백 띠
+
+로보트 도장·홍대 --> 로봇 도장 - 빨간 띠
+
+동물의 간호 --> 동물 간호
+
+동물의 세력권 --> 영역 싸움
+
+부모와 자식 싸움 --> 부모 자식 싸움
+
+거대 로보트의 조사 --> 거대 로봇의 조사
+
+속·거대 로보트의 조사 --> 거대 로봇의 조사 2
+
+살톨의 우울 --> 사르트르의 우울
+
+
+12. 퀘스트명 및 아이템명 수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+신의 --> 노부요시
+
+잔카스 선생님의 폭탄 레시피 --> 잭애스 선생의 폭탄 레시피
+
+쿨 다운 고속화 --> 쿨 다운 가속화
+
+물리 데미지 경감 --> 물리 데미지 감소
+
+사격 데미지 경감 --> 사격 데미지 감소
+
+스탠 --> 스턴
+
+콤보 계속 --> 콤보 지속
+
+아이템 자동 흡착 --> 아이템 자동 습득
+
+R020:신기루 --> R020:미라쥬
+
+R050:스피아 --> R050:스피어
+
+A100:미끼 --> A100:데코이
+
+A150:굵은 나사못 --> A150:볼트
+
+살톨에게로의 편지 --> 사르트르에게 쓴 편지
+
+쟝폴에게로의 편지 --> 사르트르에게 쓴 편지
+
+사르트르의 써놓은 편지 --> 사르트르의 작별 편지
+
+쟝폴의 써놓은 편지 --> 사르트르의 작별 편지
+
+쟝폴의 우울 --> 사르트르의 우울
+
+예쁜 유리 --> 아름다운 유리
+
+기계의 화석 --> 기계 화석
+
+
+** 한글판 과 영문판의 NPC 이름이 다름 ** 
+사르트르의 우울 = Jean-Paul's Melancholy
+사르트르 = Jean-Paul
+퀘스트 진행상의 영문 자막에도 이름이 다르게 표시될것으로 예상되며
+한글 자막에 사르트르 라고 표기되어 있고 일어 음성도 사르트르 이기 때문에
+아이템 및 퀘스트명 을 사르트르 로 통일함.
+
+
+13. 낚시도감 수정
+
+data009.cpk_unpacked/txtmess/txt_core_add_us.dat/txt_core_add.tmd
+
+어로와나 --> 아로와나
+
+뚜껑 해고 --> 두목
+
+후나 --> 붕어
+
+다르마워 --> 도치
+
+털고이 --> 털잉어
+
+담수 에이 --> 민물가오리
+
+기름 --> 기름어
+
+료우간 --> 양안
+
+후그 --> 복어
+
+카지키 --> 돛새치
+
+카브트가니 --> 투구게
+
+카브틈시워 --> 풍뎅이어
+
+타이 --> 도미
+
+우바자메 --> 돌묵상어
+
+후나형 기계 생명체 --> 붕어형 기계 생명체
+
+다르마워형 기계 생명체 --> 도치형 기계 생명체
+
+후그형 기계 생명체 --> 복어형 기계 생명체
+
+카지키형 기계 생명체 --> 돛새치형 기계 생명체
+
+타이형 기계 생명체 --> 도미형 기계 생명체
+
+카브트가니형 기계 생명체 --> 투구게형 기계 생명체
+
+어로와나형 기계 생명체 --> 아로와나형 기계 생명체
+
+우바자메형 기계 생명체 --> 돌묵상어형 기계 생명체
+
+담수 에이형 기계 생명체 --> 민물가오리형 기계 생명체
+
+기계 생명체의 머리 부분 --> 기계생명체의 두부
+
+가스 봄베 --> 가스통
+
+망가진 총기 --> 망가진 중화기
+
+강에서 잡힌 생물. 숍에서 환금할 수 있다.  --> 강에서 잡힌 생물. 상점에 팔아서 환금할 수 있다.
+
+바다에서 잡힌 생물. 숍에서 환금할 수 있다.  --> 바다에서 잡힌 생물. 상점에 팔아서 환금할 수 있다.
+
+물속에 깃드는 기계 생명체. 숍에서 환금할 수 있다. --> 물속에 살고있는 기계생명체. 상점에 팔아서 환금할 수 있다.
+
+낚아 올린 쓰레기. 숍에서 환금할 수 있다. --> 낚아 올린 쓰레기. 상점에 팔아서 환금할 수 있다.
+
+
+14. 1회차,2회차 유원지 메인퀘스트 직전 탱크 로봇 자막 수정
+(기존에 수정 안된 최초 배포자료 에서 수정)
+
+data002.cpk_unpacked/ph1/out/p100.dat/p100_23622eee_scp.bin
+
+Play! Play! Let's play! --> 놀자! 놀자!
+
+Let's play! Play! Play! --> 놀자! 놀자!
+
+
+15. 1회차 엔딩크레딧 스퀘어에닉스 홍보부 안내문 수정
+
+data009.cpk_unpacked/txtmess/out/txt_credit_us.dat/txt_credit.tmd
+
+
+16. 레지스탕스 캠프 무기상 구매 종료 후 인사말 수정
+
+data012.cpk_unpacked/st1/out/r110.dat/r110_4ebc3b22_scp.bin
+
+Don't be a stranger! --> 또 오라고!
+
+
+17. 사막 캠프 도구상 구매전 자막 수정
+
+data012.cpk_unpacked/st1/out/r150.dat/r150_5ced6cf8_scp.bin
+
+Wanna do business? --> 뭘 교환할래?
+
+
+18. 사막 캠프 도구상 구매전 대화 자막 수정
+
+data012.cpk_unpacked\st1\out\r150.dat\r150_5ced6cf8_scp.bin
+
+What can I help you with? --> 뭘 교환할래?
+
+
+19. 1회차 첫 사막 메인퀘스트 완료후 돌아오는길 사막캠프 도구상과의 대화 수정
+
+data012.cpk_unpacked\st1\out\r150.dat\r150_5ced6cf8_scp.bin
+
+。 --> 사막의 자재를 얻을 수 있게 되어서 다행이야
+
+## r150_5ced6cf8_scp.bin 초기 한글화 자료 파일 자체 버그로 인해 자막이 정상적으로 표시가 안됨
+## 영문 원본에서 추출하여 전체 재 수정함
+
+
+
+20. 사르트르의 우울 서브퀘스트 진행중 사막 아파트단지의 로봇과의 대화 수정
+
+data012.cpk_unpacked/quest/out/q020.dat/q020_404eba3d_scp.bin
+
+Not exactly. --> ……
+
+
+21. 사르트르의 우울 서브퀘스트 진행중 사막 과 유원지의 로봇에게서 선물을 받아
+사르트르 에게 보여준 후 대화 내용 수정
+
+data012.cpk_unpacked/quest/out/q020.dat/q020_404eba3d_scp.bin
+
+A gift? Let me see. --> 흠, 얘기를 들어보지
+
+Um, do you want us to bring a message back to the woman  --> 이걸 준 여성에게 뭔가 할 말 없어……?
+who gave this to you?
+
+I see, I see. --> ……흠, 그렇군
+
+
+22. 유랑커플 서브퀘스트의 마지막 단계인 유원지에서 기억삭제 협력 여부 선택 수정
+
+data012.cpk_unpacked\quest\out\q500.dat\q500_8446c06e_scp.bin
+
+Agree to help. --> 협력한다
+
+주지 않는다 --> 협력하지 않는다
+
+
+23. 에밀이 출현하여 첫 만남에서 상점 이용중 대화 수정
+
+data012.cpk_unpacked\st2\out\r200.dat\r200_d52e3bf5_scp.bin
+
+I didn't ask that --> 안 물어봤어
+
+Thank you! --> 감사합니다
+
+
+24. 에밀 과 두번째 만나서 상점 이용중 대화 수정
+
+data012.cpk_unpacked\st2\out\r200.dat\r200_d52e3bf5_scp.bin
+
+Oooo-kay? --> ……
+
+25. 에밀 상점 이용중 대화 수정
+
+data012.cpk_unpacked\st2\out\r200.dat\r200_d52e3bf5_scp.bin
+
+Owowowow... --> 아야야야……
+
+
+26. 에멜 상점 이용 후 대화 수정
+
+data012.cpk_unpacked\st2\out\r200.dat\r200_d52e3bf5_scp.bin
+
+That's not necessary. --> 영수증은 필요 없어
+
+
+27. 언니 놀아줘! 서브퀘스트 완료 직전 대화 내용 수정
+
+data012.cpk_unpacked\quest\out\q221.dat\q221_b113244a_scp.bin
+
+Uh, sure. --> 그래
+
+It's a thank-you present! --> 고마워!!
+
+Ah! A2! --> A2 씨!
+
+
+28. 3회차 파스칼 마을이 공격당하고 폐공장으로 피난후 파스칼 과의 대화 선택 수정
+
+data012.cpk_unpacked\ph3\out\p300.dat\p300_7677d46d_scp.bin
+
+Is this factory safe? --> 이 공장은 안전한가?
+
+
+29. 3회차 9S 자원 회수 유닛 에서 복귀하여 데볼 에게 치료받은 후 화면 메세지 수정
+
+data012.cpk_unpacked\ph3\out\p300.dat\p300_af5fb37c_scp.bin
+
+NFCS fully recovered. --> NFCS 복원 완료
+
+
+30. 3회차 탑 해킹시 3개의 서브유닛 을 먼저 완료하지 않고 바로 메인 유닛에 해킹 시도할때 메세지 수정
+
+data012.cpk_unpacked\quest\out\qb20.dat\qb20_91cf1fa5_scp.bin
+
+data012.cpk_unpacked\st2\out\r200.dat\r200_427ea0a7_scp.bin
+
+Have a GREAT day! --> 죄송하지만, 잘 부탁드립니다
+
+but special authorization keys are required to access Tower sub-units.
+--> 『탑』 서브 유닛에 액세스를 하려면 『액세스 인증키』가 필요합니다
+
+
+31. 서브퀘스트 스피드스타 카운트 수정
+
+data012.cpk_unpacked\quest\out\q300.dat\q300_5f9ed04e_scp.bin
+
+Three... --> 3
+
+Two... --> 2
+
+Three... --> 1
+
+
+32. 서브퀘스트 잭애스 연구 대화 및 협력 여부 선택 수정
+
+data012.cpk_unpacked\quest\out\q150.dat\q150_d31e5833_scp.bin
+
+Carefully turn her down. --> 협력하지 않는다
+
+Science will pay you back for this, I promise. Now...FIGHT! --> 그럼, 과학의 발전을 위해…… 지금 싸워!
+
+Give her a hand. --> 협력한다
+
+
+33. 서브퀘스트 잭애스 연구 협력 거부 후에 다시 협력할때 대화 및 협력 여부 선택 수정
+
+data012.cpk_unpacked\quest\out\q150.dat\q150_d31e5833_scp.bin
+
+And I ALSO know you'll let me record some of that sweet, sweet data.
+--> 그리고 좋은 데이터가 나올거라고 믿어 (의역)
+
+Remember that science will reward you handsomely for your efforts. Now...FIGHT!
+--> 과학은 네가 노력한 만큼 보상해 준다는걸 기억해. 자~ 힘내! (의역)
+
+Agree to get science up in the joint. (협력 여부 선택)
+--> 협력한다
+
+Agree to get science up in the joint. (협력한다 선택 후 잭애스 대화 - 의역)
+--> 자~ 보상해 줄테니까…… 좀 더 힘을 내!
+
+I want you to take out those enemies over there in 30 seconds or less.
+--> 30초 이내 의 전투기록이 필요하니 협력해줘 (의역)
+
+
+34. 서브퀘스트 실종된 레지스탕스 협력 거부 후 협력 여부 선택 수정
+
+data012.cpk_unpacked\quest\out\q140.dat\q140_7cda31e_scp.bin
+
+Ignore the request. --> 그냥 놔둔다
+
+
+35. 서브퀘스트 에밀의 추억 진행중 대화 수정
+
+data012.cpk_unpacked\quest\out\q330.dat\q330_21f485e_scp.bin
+
+data012.cpk_unpacked\quest\out\q330.dat\q330_70a701da_scp.bin
+
+data012.cpk_unpacked\quest\out\q330.dat\q330_9bafd382_scp.bin
+
+data012.cpk_unpacked\quest\out\q330.dat\q330_b853020f_scp.bin
+
+Let me know if you find any more. --> 네, 무슨 일이세요?
+
+I'm going to...stay here for a bit. --> 찾아 주셔서 감사합니다
+
+Oh, and let me know if you find any more, okay? --> 다른 장소를 찾으면 또 알려주세요
+
+I found one of those flowers you were looking for. It's over at— --> 달의 눈물을 발견했어요, 장소는……
+
+DON'T MOVE AN INCH! I'm coming! --> 바로 갈게요! 거기 계세요!
+
+Hey there! What's up? --> 네, 무슨 일이세요?
+
+I... --> 저는……
+
+
+36. 로봇도장 검은띠
+
+data012.cpk_unpacked\quest\out\q102.dat\q102_28e223f7_scp.bin
+
+Well then! Do you care to witness the glories of this latest modificaation?
+--> 어떠냐? 개조의 성과를 맛보지 않겠나?
+
+로봇도장 홍백띠
+data012.cpk_unpacked\quest\out\q103.dat\q103_d2b3f5a6_scp.bin
+
+...Go on.  --> ……
+
+로봇도장 빨간띠
+data012.cpk_unpacked\quest\out\q104.dat\q104_e9ff21ee_scp.bin
+
+Walk away from this nonsense.  --> 시험해 보지 않는다
+
+Face the brunt. --> 시험해 본다
+
+
+37. 1회차 항공모함 지원 임무 후 9S 를 찾기위해 아네모네 한테 스캐너에 대한 정보 수집 대화
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_58623dde_scp.bin
+
+。 --> 미약한 블랙박스 신호를 탐지할 수 있는 특수한 스캐너를 찾고 있다
+
+## p200_58623dde_scp.bin 초기 한글화 자료 파일 자체 버그로 인해 자막이 정상적으로 표시가 안됨
+## 영문 원본에서 추출하여 전체 재 수정함
+
+
+38. 서브퀘스트 창고지기 아이템명 수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+이송용의 짐 --> 이송 화물
+
+data012.cpk_unpacked\quest\out\q650.dat\q650_96497077_scp.bin
+
+『이송용 화물』으로 생각되는 --> 『이송용 화물』로 생각되는
+
+data012.cpk_unpacked\quest\out\q651.dat\q651_87a1f20b_scp.bin
+
+『이송용 화물』으로 생각되는 --> 『이송용 화물』로 생각되는
+
+
+39. 테스트 - 아이템 획득시 <아이템이름 획득> 형식으로 수정
