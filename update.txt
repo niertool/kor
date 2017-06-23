@@ -543,3 +543,10 @@ data012.cpk_unpacked\quest\out\q651.dat\q651_87a1f20b_scp.bin
 data012.cpk_unpacked\quest\out\q500.dat\q500_8446c06e_scp.bin
 
 Ah! --> 아……!
+
+
+41. 1회차 후반 항모 지원 중 무전 연락 영문자막 수정
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_27db07bb_scp.bin
+
+Looks to be 2.8 klicks southwest of us! --> 남서 방향, 거리 2.8km!
