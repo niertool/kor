@@ -576,3 +576,12 @@ data012.cpk_unpacked\ph2\out\p200.dat\p200_5a63902e_scp.bin
 Alert: FFCS destroyed. Ranged combat no longer operable.
 
 --> 경고: FFCS 파손, 원거리 전투 불가능
+
+
+45. 1회차 프롤로그 종료후 9S 의 도움을 받아 기본 설정 조정하는중 네, 아니요 선택 여부 수정
+
+data002.cpk_unpacked\ph1\out\p100.dat\p100_4aa7dace_scp.bin
+
+Okay --> 네
+
+No --> 아니요
