@@ -567,3 +567,12 @@ data012.cpk_unpacked\ph2\out\p200.dat\p200_67909aeb_scp.bin
 90 percent... 92... 95... 98... --> ……9S!
 
 90 percent... 92... 95... 98... --> 90%…… 92…… 95…… 98……
+
+
+44. 1회차 마지막 보스 이브 와의 전투중 포드의 경고 자막 수정
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_5a63902e_scp.bin
+
+Alert: FFCS destroyed. Ranged combat no longer operable.
+
+--> 경고: FFCS 파손, 원거리 전투 불가능
