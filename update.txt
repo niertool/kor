@@ -532,3 +532,10 @@ data012.cpk_unpacked\quest\out\q651.dat\q651_87a1f20b_scp.bin
 
 
 39. 테스트 - 아이템 이름에 조사(을,를) 을 직접 입력
+
+
+40. 유랑커플 과 첫 대화 수정
+
+data012.cpk_unpacked\quest\out\q500.dat\q500_8446c06e_scp.bin
+
+Ah! --> 아……!
