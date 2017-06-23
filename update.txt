@@ -585,3 +585,10 @@ data002.cpk_unpacked\ph1\out\p100.dat\p100_4aa7dace_scp.bin
 Okay --> 네
 
 No --> 아니요
+
+
+46. 2회차 초반 벙커 에서 지상으로 하강중 슈팅 하면서 오퍼레이터 무전연락중 수정
+
+data002.cpk_unpacked\ph1\out\p100.dat\p100_69ab2de6_scp.bin
+
+Roger. --> 알겠다
