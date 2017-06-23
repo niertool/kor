@@ -460,6 +460,8 @@ data012.cpk_unpacked\quest\out\q140.dat\q140_7cda31e_scp.bin
 
 Ignore the request. --> 그냥 놔둔다
 
+Oh... --> 오……
+
 
 35. 서브퀘스트 에밀의 추억 진행중 대화 수정
 
