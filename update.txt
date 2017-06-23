@@ -558,3 +558,12 @@ data012.cpk_unpacked\st1\out\r110.dat\r110_4ebc3b22_scp.bin
 
 。 --> 어서 와
        부족한 건 없어?
+
+
+43. 1회차 후반 폐공장 보스전 대화 자막 오류 수정
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_67909aeb_scp.bin
+
+90 percent... 92... 95... 98... --> ……9S!
+
+90 percent... 92... 95... 98... --> 90%…… 92…… 95…… 98……
