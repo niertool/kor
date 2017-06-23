@@ -374,6 +374,8 @@ data012.cpk_unpacked\st2\out\r200.dat\r200_d52e3bf5_scp.bin
 
 That's not necessary. --> 영수증은 필요 없어
 
+Thank you? --> 감사합니다? (오류 수정)
+
 
 27. 언니 놀아줘! 서브퀘스트 완료 직전 대화 내용 수정
 
