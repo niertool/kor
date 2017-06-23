@@ -1,0 +1,29 @@
+※노벨 게임(75ｘ18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0025_N_start>
+<page>
+전원 투입 확인<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_3>코어 모듈 기동
+<BGM_BGM_Play_Fx_HDD_1>운동 기능 <BGM_BGM_Play_Fx_HDD_1>오른팔 확인
+<BGM_BGM_Play_Fx_HDD_1>운동 기능 <BGM_BGM_Play_Fx_HDD_1>왼팔 확인
+<BGM_BGM_Play_Fx_HDD_1>운동 기능 <BGM_BGM_Play_Fx_HDD_1>오른다리 확인
+<BGM_BGM_Play_Fx_HDD_1>운동 기능 <BGM_BGM_Play_Fx_HDD_1>왼다리 확인
+<BGM_BGM_Play_Fx_HDD_1>카메라 모듈 기동
+<BGM_BGM_Play_Fx_HDD_1>마이크 모듈 기동
+<BGM_BGM_Play_Fx_HDD_2>스피커 모듈 기동<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_3>시야 12% 결손 확인<bt_wait>
+<BGM_BGM_Play_Fx_HDD_1>허용 범위임으로 <BGM_BGM_Play_Fx_HDD_1>기동 허가<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_2>내 이름은 플라톤<bt_wait>
+<BGM_BGM_Play_Fx_HDD_1>플라톤 1728<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_1>1728 번째 <BGM_BGM_Play_Fx_HDD_1>전투병기
+</page>
+<BGM_BGM_M5095_S0025_N_end>
+
+
+
+
+
