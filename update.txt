@@ -550,3 +550,11 @@ Ah! --> 아……!
 data012.cpk_unpacked\ph2\out\p200.dat\p200_27db07bb_scp.bin
 
 Looks to be 2.8 klicks southwest of us! --> 남서 방향, 거리 2.8km!
+
+
+42. 1회차 후반 아담과 전투후 레지스탕스 캠프에서 데볼 상점 대화 오류 수정
+
+data012.cpk_unpacked\st1\out\r110.dat\r110_4ebc3b22_scp.bin
+
+。 --> 어서 와
+       부족한 건 없어?
