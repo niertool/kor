@@ -613,6 +613,13 @@ data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
 
 50. 서브퀘스트 기밀 정보 탈환 에서 두번째 칩을 회수하고 포드와 대화 수정
 
-D:\Down\kor\data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
+data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
 
 A YoRHa-only chip, huh? --> 요르하 부대원 전용 칩……
+
+
+51. 서브퀘스트 기밀 정보 탈환 에서 퀘스트 수주 여부 선택 수정
+
+data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
+
+플러그인 칩을 넘기지 않는다 --> 거절한다
