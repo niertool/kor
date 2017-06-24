@@ -592,3 +592,10 @@ No --> 아니요
 data002.cpk_unpacked\ph1\out\p100.dat\p100_69ab2de6_scp.bin
 
 Roger. --> 알겠다
+
+
+67. 2회차 벙커에서 오퍼레이터210 과 대화하여 데이터 해석의 귀신 퀘스트를 수주받는 부분 수정
+
+data012.cpk_unpacked\quest\out\q180.dat\q180_2d2126d2_scp.bin
+
+Hey! --> 너무해!
