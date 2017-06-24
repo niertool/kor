@@ -632,3 +632,15 @@ data012.cpk_unpacked\quest\out\q590.dat\q590_13ffe891_scp.bin
 
 If you find any more relics, make sure to bring them to me.
 --> 좋아! 또 다른 유산을 발견하면 가져다줘!
+
+
+54. 서브퀘스트 모래의 유산 진행중 소녀의 석상 획득 후 포드와 대화 수정
+
+data012.cpk_unpacked\quest\out\q590.dat\q590_13ffe891_scp.bin
+
+The hostile machine lifeforms have been defeated.
+--> 적성 기계생명체 제거를 확인
+
+La ricerca delle reliquie nel deserto
+senza assistenza potrebbe rivelarsi difficile.
+--> 인류 문화?
