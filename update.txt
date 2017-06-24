@@ -644,3 +644,14 @@ The hostile machine lifeforms have been defeated.
 La ricerca delle reliquie nel deserto
 senza assistenza potrebbe rivelarsi difficile.
 --> 인류 문화?
+
+
+55. 아이템 이름 변경
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+오래된 지팡이 --> 낡은 지팡이
+
+더러워진 가면 --> 더러운 가면
+
+규칙이 쓰여진 석판 --> 규정이 적힌 석판
