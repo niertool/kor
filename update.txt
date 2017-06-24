@@ -312,10 +312,6 @@ data012.cpk_unpacked\st1\out\r150.dat\r150_5ced6cf8_scp.bin
 
 。 --> 사막의 자재를 얻을 수 있게 되어서 다행이야
 
-## r150_5ced6cf8_scp.bin 초기 한글화 자료 파일 자체 버그로 인해 자막이 정상적으로 표시가 안됨
-## 영문 원본에서 추출하여 전체 재 수정함
-
-
 
 20. 사르트르의 우울 서브퀘스트 진행중 사막 아파트단지의 로봇과의 대화 수정
 
@@ -516,8 +512,6 @@ data012.cpk_unpacked\ph2\out\p200.dat\p200_58623dde_scp.bin
 
 。 --> 미약한 블랙박스 신호를 탐지할 수 있는 특수한 스캐너를 찾고 있다
 
-## p200_58623dde_scp.bin 초기 한글화 자료 파일 자체 버그로 인해 자막이 정상적으로 표시가 안됨
-## 영문 원본에서 추출하여 전체 재 수정함
 
 
 38. 서브퀘스트 창고지기 아이템명 수정
@@ -630,3 +624,11 @@ data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
 data012.cpk_unpacked\quest\out\q040.dat\q040_cf7c14d9_scp.bin
 
 I can see that. --> ……
+
+
+53. 서브퀘스트 모래의 유산 진행중 대화 수정
+
+data012.cpk_unpacked\quest\out\q590.dat\q590_13ffe891_scp.bin
+
+If you find any more relics, make sure to bring them to me.
+--> 좋아! 또 다른 유산을 발견하면 가져다줘!
