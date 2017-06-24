@@ -599,3 +599,8 @@ Roger. --> 알겠다
 data012.cpk_unpacked\quest\out\q180.dat\q180_2d2126d2_scp.bin
 
 Hey! --> 너무해!
+
+
+68. 뱅커 --> 벙커
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
