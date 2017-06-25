@@ -781,3 +781,15 @@ Fiiine. --> 네에~
 data012.cpk_unpacked\ph3\out\p300.dat\p300_e9106cc6_scp.bin
 
 Are you okay? --> 괜찮아요!?
+
+
+68. 3회차 초반 2B 및 동료들이 바이러스 감염 직후 전파방해로 사령부 연락불가 대화
+
+data012.cpk_unpacked\ph3\out\p300.dat\p300_a60ff1fc_scp.bin
+
+Alert: All communications are currently being jammed. (포드)
+--> 불가능: 기계생명체에 의한 방해 전파 감지
+
+Alerte : communications impossibles suite aux (9S --> 포드 대화와 바뀜)
+interférences ennemies.
+--> 2B!
