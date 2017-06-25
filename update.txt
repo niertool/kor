@@ -724,3 +724,10 @@ data012.cpk_unpacked\quest\out\q290.dat\q290_e15f2fa1_scp.bin
 Agree to help. --> 플레이한다 --> 협력한다
 
 Tell him you've done enough. --> 하지 않는다 --> 협력하지 않는다
+
+
+62. 서브퀘스트 게임 크리에이터 로봇 진행중 협력 여부 선택 수정
+
+data012.cpk_unpacked\quest\out\q290.dat\q290_e15f2fa1_scp.bin
+
+가져온다 --> 협력한다
