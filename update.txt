@@ -715,3 +715,12 @@ Care to check it out? I'll give you a prize if you can debug it for me.
 。…… (중국어 폰트가 없으므로 문장에 포함된 특수기호만 표시됨)
 
 --> 好，稍微等我一下喔。只要接上這個…… --> 좋아! 잠깐만 기다려, 이걸 이어서……
+
+
+61. 서브퀘스트 게임 크리에이터 로봇 진행중 협력 여부 선택 수정
+
+data012.cpk_unpacked\quest\out\q290.dat\q290_e15f2fa1_scp.bin
+
+Agree to help. --> 플레이한다 --> 협력한다
+
+Tell him you've done enough. --> 하지 않는다 --> 협력하지 않는다
