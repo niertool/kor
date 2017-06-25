@@ -793,3 +793,10 @@ Alert: All communications are currently being jammed. (포드)
 Alerte : communications impossibles suite aux (9S --> 포드 대화와 바뀜)
 interférences ennemies.
 --> 2B!
+
+
+69. 3회차 초반 벙커까지 바이러스 감염후 벙커에서 탈출 직전 대화
+
+data012.cpk_unpacked\ph3\out\p300.dat\p300_26ad4903_scp.bin
+
+But Commander... --> 사령관님……
