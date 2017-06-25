@@ -743,10 +743,12 @@ Maybe it's more of a feeling thing. Like, some people just want to eat it every 
 Whatever. --> 『사슴 고기』와 『멧돼지 고기』를 다 모았네, 의뢰주에게 가자
 
 
-64. 백화점 에서 숲으로 진입 후 외치는 로봇들
+64. 백화점 에서 숲으로 진입 후 외치는 로봇들 과 숲 안쪽에서 집회중인 로봇들
 
 data012.cpk_unpacked\st1\out\r160.dat\r160_3fa0647a_scp.bin
 
 data012.cpk_unpacked\st1\out\r160.dat\r160_74d9b777_scp.bin
 
 For the king of our forest! --> 우리 숲의 왕을 위해!!
+
+We will protect them! --> 지키는 거다!
