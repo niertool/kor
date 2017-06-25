@@ -767,3 +767,10 @@ data012.cpk_unpacked\ph2\out\p200.dat\p200_24194e13_scp.bin
 Hmm. I guess. --> ……알았어
 
 Yes? --> 뭐지?
+
+
+66. 2회차 후반 아담 전투 끝나고 9S 오버홀 스스로 해킹중 포드와 대화
+
+data012.cpk_unpacked\quest\out\qab6.dat\qab6_69325679_scp.bin
+
+Fiiine. --> 네에~
