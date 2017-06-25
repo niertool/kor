@@ -774,3 +774,10 @@ Yes? --> 뭐지?
 data012.cpk_unpacked\quest\out\qab6.dat\qab6_69325679_scp.bin
 
 Fiiine. --> 네에~
+
+
+67. 3회차 초반 2B 및 동료들이 EMP 에 당하고 9S 가 옥상에서 내려가 해킹으로 구하는 부분
+
+data012.cpk_unpacked\ph3\out\p300.dat\p300_e9106cc6_scp.bin
+
+Are you okay? --> 괜찮아요!?
