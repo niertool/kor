@@ -662,3 +662,29 @@ data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
 data012.cpk_unpacked\ph2\out\p200.dat\p200_48a7f0fd_scp.bin
 
 ……2 --> ……2B (2B 문자가 각각 특수문자로 되어 있어서 표시가 안되고 있었음)
+
+
+57. 서브퀘스트 성에서 보물찾기 진행중 대화 수정
+
+data012.cpk_unpacked\quest\out\q440.dat\q440_3b4ef61d_scp.bin
+
+Proposal: 2B should investigate. --> 권장: 조사
+
+Proposal: 9S should investigate. --> 권장: 조사
+
+Processing.... --> 분석 중: ……………………
+
+A library? --> 장서실……?
+
+So it's junk, basically. --> 이건…… 잡동사니?
+
+Makes sense. --> 말 된다
+
+고철 덩어리 --> 잡동사니
+
+
+58. 아이템 이름 변경
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+숲의 나라의 왕에의 편지 --> 숲의 나라의 왕에게 보내는 편지
