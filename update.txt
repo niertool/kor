@@ -688,3 +688,12 @@ Makes sense. --> 말 된다
 data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
 
 숲의 나라의 왕에의 편지 --> 숲의 나라의 왕에게 보내는 편지
+
+
+59. 숲의 성에서 A2 와 전투후 파스칼에게 데이터를 보여주고 2B 가 9S 에게 잔소리 하는 부분
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_96e13a06_scp.bin
+
+Huh? --> 어……
+
+네……? --> 어……
