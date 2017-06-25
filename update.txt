@@ -733,7 +733,7 @@ data012.cpk_unpacked\quest\out\q290.dat\q290_e15f2fa1_scp.bin
 가져온다 --> 협력한다
 
 
-63. 서브퀘스트 요리 연구가 진행중 멧돼지와 사슴 고기를 갖고 돌아가면서 포드와 대화 수정
+63. 서브퀘스트 요리 연구가 진행중 의뢰주 또는 포드와 대화 수정
 
 data012.cpk_unpacked\quest\out\q532.dat\q532_65ff89bf_scp.bin
 
@@ -741,6 +741,12 @@ Maybe it's more of a feeling thing. Like, some people just want to eat it every 
 --> 글쎄…… 기분의 문제 아닐까? 가끔은 먹고 싶어질 수도 있잖아
 
 Whatever. --> 『사슴 고기』와 『멧돼지 고기』를 다 모았네, 의뢰주에게 가자
+
+That should be enough moose and boar meat.
+Let's get it back to the trader.
+--> 『사슴 고기』와 『멧돼지 고기』를 다 모았네, 의뢰주에게 가자
+
+빈 자막창 --> 你吃過？ -->먹어본 적이 있어요?
 
 
 64. 백화점 에서 숲으로 진입 후 외치는 로봇들 과 숲 안쪽에서 집회중인 로봇들
