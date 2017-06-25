@@ -758,3 +758,12 @@ data012.cpk_unpacked\st1\out\r160.dat\r160_74d9b777_scp.bin
 For the king of our forest! --> 우리 숲의 왕을 위해!!
 
 We will protect them! --> 지키는 거다!
+
+
+65. 2회차 항모 지원 임무로 침수도시 이동하여 진입시 아담,이브 대화 수정
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_24194e13_scp.bin
+
+Hmm. I guess. --> ……알았어
+
+Yes? --> 뭐지?
