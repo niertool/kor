@@ -741,3 +741,12 @@ Maybe it's more of a feeling thing. Like, some people just want to eat it every 
 --> 글쎄…… 기분의 문제 아닐까? 가끔은 먹고 싶어질 수도 있잖아
 
 Whatever. --> 『사슴 고기』와 『멧돼지 고기』를 다 모았네, 의뢰주에게 가자
+
+
+64. 백화점 에서 숲으로 진입 후 외치는 로봇들
+
+data012.cpk_unpacked\st1\out\r160.dat\r160_3fa0647a_scp.bin
+
+data012.cpk_unpacked\st1\out\r160.dat\r160_74d9b777_scp.bin
+
+For the king of our forest! --> 우리 숲의 왕을 위해!!
