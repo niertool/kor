@@ -818,3 +818,12 @@ Flight controls established for unit 9S. --> 9S 탑승 기체의 제어를 장�
 data012.cpk_unpacked\quest\out\q562.dat\q562_e10ec9ab_scp.bin
 
 As rough as they are? --> 힘든 일이라니……
+
+
+82. 서브퀘스트 창고지기2 수주를 위해 NPC 와 대화중
+
+data012.cpk_unpacked\quest\out\q651.dat\q651_87a1f20b_scp.bin
+
+Marquage en cours des paquets
+potentiellement recherchés.
+--> 부탁이야! 도와줘!
