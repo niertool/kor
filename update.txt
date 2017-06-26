@@ -850,3 +850,16 @@ Alert: Enemies detected. --> 경고: 적 기체의 반응 감지
 data012.cpk_unpacked\ph3\out\p300.dat\p300_10112854_scp.bin
 
 Acknowledged. --> 알겠음
+
+
+86. 9S 선택 사막 첫 메인퀘스트 진행중 아파트단지 앞 탱크 출현시 포드
+
+data012.cpk_unpacked\quest\out\q400.dat\q400_1f6199eb_scp.bin
+
+data012.cpk_unpacked\quest\out\q400.dat\q400_21ca35cb_scp.bin
+
+data012.cpk_unpacked\quest\out\q400.dat\q400_48d76c20_scp.bin
+
+data012.cpk_unpacked\quest\out\q400.dat\q400_fc5b48ad_scp.bin
+
+Engaging enemy. --> 권장: 파괴
