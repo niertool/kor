@@ -843,3 +843,10 @@ data012.cpk_unpacked\ph3\out\p300.dat\p300_249dcf6a_scp.bin
 Alerte : ennemis détectés. --> 2B……
 
 Alert: Enemies detected. --> 경고: 적 기체의 반응 감지
+
+
+85. 3회차 마지막 A2 , 9S 결투에서 A2 선택하고 9S 를 해킹한 후 포드와 대화중 
+
+data012.cpk_unpacked\ph3\out\p300.dat\p300_10112854_scp.bin
+
+Acknowledged. --> 알겠음
