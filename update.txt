@@ -827,3 +827,10 @@ data012.cpk_unpacked\quest\out\q651.dat\q651_87a1f20b_scp.bin
 Marquage en cours des paquets
 potentiellement recherchés.
 --> 부탁이야! 도와줘!
+
+
+83. 서브퀘슽트 창고지기3 건물 옥상 상자 쌓인 근처에 가면 안에서 외치는 소리
+
+data012.cpk_unpacked\quest\out\q652.dat\q652_4e20ab43_scp.bin
+
+...lp me. Help me... --> 와줘…… 도와줘……
