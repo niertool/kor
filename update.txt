@@ -834,3 +834,10 @@ potentiellement recherchés.
 data012.cpk_unpacked\quest\out\q652.dat\q652_4e20ab43_scp.bin
 
 ...lp me. Help me... --> 와줘…… 도와줘……
+
+
+84. 3회차 탑에 진입하여 2B 모델 들과 전투 시작하고 9S 혼잣말 할때
+
+data012.cpk_unpacked\ph3\out\p300.dat\p300_249dcf6a_scp.bin
+
+Alerte : ennemis détectés. --> 2B……
