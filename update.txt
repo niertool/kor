@@ -841,3 +841,5 @@ data012.cpk_unpacked\quest\out\q652.dat\q652_4e20ab43_scp.bin
 data012.cpk_unpacked\ph3\out\p300.dat\p300_249dcf6a_scp.bin
 
 Alerte : ennemis détectés. --> 2B……
+
+Alert: Enemies detected. --> 경고: 적 기체의 반응 감지
