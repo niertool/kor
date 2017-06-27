@@ -874,3 +874,7 @@ data012.cpk_unpacked\quest\out\q031.dat\q031_b551328a_scp.bin
 data012.cpk_unpacked\quest\out\q032.dat\q032_94bdfeb7_scp.bin
 
 53 minutes later... --> 53분 후……
+
+data012.cpk_unpacked\st2\out\r200.dat\r200_e684ee2d_scp.bin
+
+What? --> 이야기……
