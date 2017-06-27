@@ -863,3 +863,14 @@ data012.cpk_unpacked\quest\out\q400.dat\q400_48d76c20_scp.bin
 data012.cpk_unpacked\quest\out\q400.dat\q400_fc5b48ad_scp.bin
 
 Engaging enemy. --> 권장: 파괴
+
+
+87. 9S 선택하여 서브퀘스트 거대 로봇의 조사 진행중
+
+data012.cpk_unpacked\quest\out\q031.dat\q031_b551328a_scp.bin
+
+47 minutes later... --> 47분 후……
+
+data012.cpk_unpacked\quest\out\q032.dat\q032_94bdfeb7_scp.bin
+
+53 minutes later... --> 53분 후……
