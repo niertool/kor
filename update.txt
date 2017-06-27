@@ -924,3 +924,10 @@ data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
 data012.cpk_unpacked\st1\out\r160.dat\r160_19656865_scp.bin
 
 I see where this is going. --> ……
+
+
+92. 에밀의 결심 진행중 사막에서 에밀을 만나고 적 등장할때
+
+data012.cpk_unpacked\quest\out\q900.dat\q900_626a2689_scp.bin
+
+What is THAT!? --> 뭐야……!?
