@@ -885,3 +885,10 @@ What? --> 이야기……
 data012.cpk_unpacked\quest\out\q540.dat\q540_e1207097_scp.bin
 
 Nnngh... --> 큭……
+
+
+55. 서브퀘스트 로봇도장 갈색띠
+
+data012.cpk_unpacked\quest\out\q101.dat\q101_5be5b4cc_scp.bin
+
+수행을 재개하지 않는다  --> 아이템을 건네지 않는다
