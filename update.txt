@@ -878,3 +878,10 @@ data012.cpk_unpacked\quest\out\q032.dat\q032_94bdfeb7_scp.bin
 data012.cpk_unpacked\st2\out\r200.dat\r200_e684ee2d_scp.bin
 
 What? --> 이야기……
+
+
+54. 서브퀘스트 배신의 요르하를 진행하여 대장 8B 와 전투시작 후
+
+data012.cpk_unpacked\quest\out\q540.dat\q540_e1207097_scp.bin
+
+Nnngh... --> 큭……
