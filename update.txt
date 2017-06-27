@@ -917,3 +917,10 @@ data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
 공장 폐허:용광로 앞
 수몰 도시:연안
 폐허 도시:지하 동굴
+
+
+91. 서브퀘스트 영역 싸움 수주 할때 2B
+
+data012.cpk_unpacked\st1\out\r160.dat\r160_19656865_scp.bin
+
+I see where this is going. --> ……
