@@ -939,3 +939,10 @@ data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
 
 플러그인 칩을 넘기기 전에 질문에 답해 줘 --> ……
 (같은 중복 자막이 따로 있음)
+
+
+94. 서브퀘스트 기밀 정보 탈환 에서 두번째 칩을 회수하고 포드와 대화 2B
+
+data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
+
+Oh? --> 사양?
