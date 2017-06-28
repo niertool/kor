@@ -931,3 +931,11 @@ I see where this is going. --> ……
 data012.cpk_unpacked\quest\out\q900.dat\q900_626a2689_scp.bin
 
 What is THAT!? --> 뭐야……!?
+
+
+93. 서브퀘스트 기밀 정보 탈환 마지막 사막에서 NPC 대화
+
+data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
+
+플러그인 칩을 넘기기 전에 질문에 답해 줘 --> ……
+(같은 중복 자막이 따로 있음)
