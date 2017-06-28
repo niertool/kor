@@ -948,7 +948,14 @@ data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
 Oh? --> 사양?
 
 
-65. 오퍼레이터60 의 무전을 받고 전송 장치의 고장 퀘스트 수주할때
+95. 서브퀘스트 기밀 정보 탈환 에서 세번째 칩을 회수하고 사령관 무전 연락중 2B
+
+data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
+
+Roger. --> 알겠습니다
+
+
+96 오퍼레이터60 의 무전을 받고 전송 장치의 고장 퀘스트 수주할때 2B
 
 data012.cpk_unpacked\quest\out\q170.dat\q170_96333b78_scp.bin
 
