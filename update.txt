@@ -946,3 +946,12 @@ data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
 data012.cpk_unpacked\quest\out\q640.dat\q640_ccd60068_scp.bin
 
 Oh? --> 사양?
+
+
+65. 오퍼레이터60 의 무전을 받고 전송 장치의 고장 퀘스트 수주할때
+
+data012.cpk_unpacked\quest\out\q170.dat\q170_96333b78_scp.bin
+
+Will do. --> 알겠다
+
+Roger. --> 알겠다
