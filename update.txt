@@ -962,3 +962,11 @@ data012.cpk_unpacked\quest\out\q170.dat\q170_96333b78_scp.bin
 Will do. --> 알겠다
 
 Roger. --> 알겠다
+
+
+97. A2 선택 포폴의 부탁 진행중 사막의 장미를 전해주고 힘든 일을 한다며 아네모네 에게 얘기하기 전 포드
+
+data012.cpk_unpacked\quest\out\q561.dat\q561_74b9a716_scp.bin
+
+Hypothesis: Continued "crap jobs" will eventually have a deleterious effect on the entire organization.
+--> 추측: 가혹한 작업은 언젠가 조직에 악영향을 미침
