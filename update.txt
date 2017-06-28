@@ -970,3 +970,10 @@ data012.cpk_unpacked\quest\out\q561.dat\q561_74b9a716_scp.bin
 
 Hypothesis: Continued "crap jobs" will eventually have a deleterious effect on the entire organization.
 --> 추측: 가혹한 작업은 언젠가 조직에 악영향을 미침
+
+
+98. A2 선택 모래의 유산 진행중 퀘스트 수주 후 이동시 포드와 대화
+
+data012.cpk_unpacked\quest\out\q590.dat\q590_13ffe891_scp.bin
+
+Proposal: Unit A2 should use the dynamic scanner. --> 권장: 타겟 스캐너 사용
