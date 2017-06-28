@@ -977,3 +977,14 @@ Hypothesis: Continued "crap jobs" will eventually have a deleterious effect on t
 data012.cpk_unpacked\quest\out\q590.dat\q590_13ffe891_scp.bin
 
 Proposal: Unit A2 should use the dynamic scanner. --> 권장: 타겟 스캐너 사용
+
+
+99. 2B 선택 아담에게서 9S를 구출 후에 모래의 유산 진행중
+
+data012.cpk_unpacked\quest\out\q590.dat\q590_13ffe891_scp.bin
+
+…… --> 舊世界的遺產嗎…… --> 구세계의 유산이라……
+
+Proposal: Unit 2B should use the dynamic scanner. --> 권장: 타겟 스캐너 사용
+
+Explain. --> 인류 문화?
