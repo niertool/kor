@@ -995,3 +995,16 @@ Explain. --> 인류 문화?
 data012.cpk_unpacked\quest\out\q171.dat\q171_12f2963a_scp.bin
 
 Affirmative. --> 알겠음
+
+
+101. 서브퀘스트 11B 의 유품 진행하여 16D 와 대화중
+
+data012.cpk_unpacked\quest\out\q410.dat\q410_4f2b901a_scp.bin
+
+……。 --> ……知道了。 --> ……그래
+
+……。 --> ……我知道了。 --> ……그래
+
+……。 --> ……這樣啊。 --> ……그래
+
+…… --> 呵…… --> 큭……
