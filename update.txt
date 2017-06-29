@@ -988,3 +988,10 @@ data012.cpk_unpacked\quest\out\q590.dat\q590_13ffe891_scp.bin
 Proposal: Unit 2B should use the dynamic scanner. --> 권장: 타겟 스캐너 사용
 
 Explain. --> 인류 문화?
+
+
+100. 2B 서브퀘스트 선물 진행중 사막의 장미의 사진을 찍어 오퍼레이터60 에게 전송하라고 할때 포드 대답
+
+data012.cpk_unpacked\quest\out\q171.dat\q171_12f2963a_scp.bin
+
+Affirmative. --> 알겠음
