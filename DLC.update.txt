@@ -1,7 +1,46 @@
 ﻿1. 2017.07.02 DLC 수정 추가.
 
+
 2. 2017.07.03 DLC 추가 수정.
 
 수몰도시 투기장 번역툴 버그로 인한 삭제된 자막 추가, 자연스럽지 못한 부분 수정
 
 삼림지역 투기장 누락되어 있는 자막 추가 및 아이템명, 퀘스트명 수정
+
+
+3. DLC 삼림 투기장 설명 듣는 부분 추가 수정.
+
+data100.cpk_unpacked/quest/q090.dat/q090_86062922_scp.bin
+
+What would you like to ask about? --> 무엇에 대해 알고싶어?
+
+How does this work? --> 진행 방법에 대해 물어본다
+
+The rules are simple. --> 방법은 간단해
+
+You just select the difficulty here at the reception... --> 우선 이곳 접수창구에서 난이도를 선택하고……
+
+And then choose which machine you want to control. --> 그런 다음 조종할 기체를 고르면 되
+
+That's all. --> 그게 다야
+
+How do I take over machines? --> 기계생명체의 탈취에 대해 물어본다
+
+Taking control of us is simple. --> 우리를 탈취하는 방법은 간단해
+
+Just hack into a machine without getting noticed. --> 들키지 않고 기계생명체를 해킹하면 되는거야
+
+I recommend sneaking up from behind. --> 나는 후방으로 은밀히 접근해서 하는 것을 추천해
+
+I'm only telling you this because I want this place to thrive...
+--> 이건 단지 이곳이 번창해지길 바라는 마음에서, 너에게만 특별히 알려준거야……
+
+If anyone finds out, I'll become target practice, so let's keep this between us, okay?
+-->
+누군가 이것을 알게되면, 난 연습대상이 되고 말아
+비밀이야 알겠지?
+
+What do levels mean? --> 레벨에 대해 물어본다
+
+The level of the body you control is based on your own level.
+--> 조종하는 기체의 레벨은 너의 레벨과 동등해
