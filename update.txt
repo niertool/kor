@@ -1008,3 +1008,79 @@ data012.cpk_unpacked\quest\out\q410.dat\q410_4f2b901a_scp.bin
 ……。 --> ……這樣啊。 --> ……그래
 
 …… --> 呵…… --> 큭……
+
+
+102. 이벤트 영상 자막 및 시스템 메세지, 아이템명 등 정발판에 맞추어 수정
+
+data009.cpk_unpacked/subtitle/out/*
+
+data002.cpk_unpacked/ph1/out/p100.dat/p100_54edd5c_scp.bin
+
+data009.cpk_unpacked/txtmess/out/txt_chapter_us.dat/txt_chapter.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_core_us.dat/txt_core.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_pause_us.dat/txt_pause.tmd
+
+
+103. 시스템 메세지 수정
+
+data009.cpk_unpacked\txtmess\out\txt_pause_us.dat\txt_pause.tmd
+
+칩의 줄서 바꾸고를 실시합니다.
+좋습니까?
+
+==> 칩을 정렬하시겠습니까?
+
+
+이 장소에는 장비 할 수 없습니다.
+
+==> 여기에는 장비할 수 없습니다.
+
+
+저장되지 않은 게임 데이터는 없어집니다.
+ 계속하시겠습니까?
+
+==>
+
+저장되지 않은 게임 데이터는 잃게 됩니다.
+괜찮겠습니까?
+
+
+진행 상황을 파기해 타이틀로 돌아가시겠습니까?
+
+==> 타이틀 화면으로 돌아가시겠습니까?
+
+
+104. 플레이중 저장 데이터를 로드하여 재시작 할때 확인 메세지
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+선택한 저장 데이터로 플레이 하시겠습니까?
+ 저장되어 있지 않은 게임 데이터는 파기됩니다.
+
+==>
+
+선택한 저장 데이터로 플레이하시겠습니까?
+저장되지 않은 게임 데이터는 잃게 됩니다.
+
+
+105. 챕터를 선택하여 시작할때 확인 메세지 수정 (명랑유저님 수정자료 사용)
+
+data009.cpk_unpacked\txtmess\out\txt_chapter_us.dat\txt_chapter.tmd
+
+예전에 수정했던 부분에서 혹시나 다른곳에서 챕터명을 불러와 사용할지도 모르기 때문에
+
+『<CHAPTER_NAME>』 챕터를 시작하시겠습니까?  ==> 재수정
+
+챕터명 에 사용했던 특수문자 『』 와 을(를) 조사 삭제
+
+챕터명 『9S 자원 회수 유닛「신의 상자」』의 경우
+」와 』 비슷한 특수문자가 연속으로 겹치는 경우가 있어서 「」를 [] 특수문자로 변경함
+
+챕터명 『9S 2B 기동 세트업 어이스트』 ==> 『9S 2B 기동 세트업 어시스트』
+
+PS 정발판 에서는 "『<CHAPTER_NAME>』을(를) 시작하시겠습니까?" 이지만..
+조사 표기가 맞지 않기 때문에 위와 같이 수정.
