@@ -1160,3 +1160,11 @@ data009.cpk_unpacked\txtmess\out\txt_credit_us.dat\txt_credit.tmd
 data012.cpk_unpacked\st1\out\r160.dat\r160_19656865_scp.bin
 
 YOU DISPATCHED THE WILD ANIMALS. THANK YOU! --> 동물 무리를 해치워 줬구나, 고마워!
+
+
+115. 아카이브 수정 - 동물이 된 기계생명체의 기억
+
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+PAUSE_ARCHIVE_160_010
+서브퀘스트 영역 싸움에서 획득 "동물이 된 기계생명체의 기억" 아카이브 수정
