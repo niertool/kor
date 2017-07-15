@@ -1153,3 +1153,10 @@ data009.cpk_unpacked\txtmess\out\txt_credit_us.dat\txt_credit.tmd
 
 『챕터 선택』을 사용할 수 있게 되었습니다.
 스타트 메뉴와 액세스 포인트에서 선택할 수 있습니다.
+
+
+114. 2B 서브퀘스트 영역 싸움 진행 중 영문 수정
+
+data012.cpk_unpacked\st1\out\r160.dat\r160_19656865_scp.bin
+
+YOU DISPATCHED THE WILD ANIMALS. THANK YOU! --> 동물 무리를 해치워 줬구나, 고마워!
