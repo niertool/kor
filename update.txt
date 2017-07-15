@@ -1086,12 +1086,26 @@ PS 정발판 에서는 "『<CHAPTER_NAME>』을(를) 시작하시겠습니까?" 
 조사 표기가 맞지 않기 때문에 위와 같이 수정.
 
 
-106. 20170714 튜토리얼, 챕터, 낚시도감 등의 설명 수정(명랑유저님)
+106. 20170714 튜토리얼, 챕터, 낚시도감, 퀘스트 등의 설명 수정(명랑유저님)
 data009.cpk_unpacked\txtmess\*
 
 
-107. 내용이 긴 문장 줄넘기기 수정
+107. 내용이 긴 문장 줄넘기기 및 아이템 이름 수정
 data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+이 게임에서는 메시지를 공유할 때 온라인 기능을 사용합니다.
+온라인에 접속하시겠습니까? (시스템 메뉴에서 언제든지 변경할 수 있습니다)
+
+이 저장 슬롯에 저장하시겠습니까?
+(재개시는 근처의 액세스 포인트에서 재개합니다)
+
+녹슨 독 태그 --> 녹슨 인식표
+
+더러워진 독 태그 --> 더러운 인식표
+
+다친 독 태그 --> 손상된 인식표
+
+피가 붙은 독 태그 --> 피 묻은 인식표
 
 
 108. 퀘스트 진행중 필요 아이템 표기 방법 수정
@@ -1104,15 +1118,38 @@ data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
 
 ==>
 
-[동광]을 2개 (소지중인 개수: 0개)
+[동광]을 2개 (소지수: 0개)
 
-<ITEM_NAME> <REQ_NUM>개 (소지중인 개수: <ITEM_NUM>개)
+<ITEM_NAME> <REQ_NUM>개 (소지수: <ITEM_NUM>개)
+
+
+개수 표기 띄어쓰기 수정
+
+높은 곳에 있는 기계 생명체를 해킹 한다 <ENEMY_NUM>/<REQ_NUM>
+
+기계 생명체로부터 플러그인 칩을 되찾는다 <ENEMY_NUM>/<REQ_NUM>
 
 
 109. 사르트르의 우울 퀘스트 설명 및 사르트르의 이름 잘못 표기된 부분 수정
 data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
 
 
-110. 동포들의 행방 서브퀘스트 아이템 이름 및 일부 퀘스트 설명 수정
+110. 모래의 유산 퀘스트 설명 수정
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+111. 잭애스 연구 퀘스트 설명 수정
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+112. 동포들의 행방 퀘스트 아이템 이름 및 퀘스트 설명 수정
 data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
 data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+113. 내용이 긴 문장 줄넘기기 수정
+
+data009.cpk_unpacked\txtmess\out\txt_credit_us.dat\txt_credit.tmd
+
+『챕터 선택』을 사용할 수 있게 되었습니다.
+스타트 메뉴와 액세스 포인트에서 선택할 수 있습니다.
