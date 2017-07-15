@@ -1084,3 +1084,35 @@ data009.cpk_unpacked\txtmess\out\txt_chapter_us.dat\txt_chapter.tmd
 
 PS 정발판 에서는 "『<CHAPTER_NAME>』을(를) 시작하시겠습니까?" 이지만..
 조사 표기가 맞지 않기 때문에 위와 같이 수정.
+
+
+106. 20170714 튜토리얼, 챕터, 낚시도감 등의 설명 수정(명랑유저님)
+data009.cpk_unpacked\txtmess\*
+
+
+107. 내용이 긴 문장 줄넘기기 수정
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+
+108. 퀘스트 진행중 필요 아이템 표기 방법 수정
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+[동광]을 0/2
+
+<ITEM_NAME> <ITEM_NUM>/<REQ_NUM>
+
+==>
+
+[동광]을 2개 (소지중인 개수: 0개)
+
+<ITEM_NAME> <REQ_NUM>개 (소지중인 개수: <ITEM_NUM>개)
+
+
+109. 사르트르의 우울 퀘스트 설명 및 사르트르의 이름 잘못 표기된 부분 수정
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+110. 동포들의 행방 서브퀘스트 아이템 이름 및 일부 퀘스트 설명 수정
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
