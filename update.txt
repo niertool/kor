@@ -1168,3 +1168,12 @@ data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
 
 PAUSE_ARCHIVE_160_010
 서브퀘스트 영역 싸움에서 획득 "동물이 된 기계생명체의 기억" 아카이브 수정
+
+
+116. 항모 호위 임무 메인 퀘스트 진행중
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_e723b449_scp.bin
+
+북부 12C 방위본부에서 파견된 엽병 부대다
+-->
+북부 12C 방위본부에서 파견된 용병 부대다
