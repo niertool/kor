@@ -44,3 +44,10 @@ What do levels mean? --> 레벨에 대해 물어본다
 
 The level of the body you control is based on your own level.
 --> 조종하는 기체의 레벨은 너의 레벨과 동등해
+
+
+4. 수몰도시 투기장 접수시 랭크목록 버그 수정
+
+data100.cpk_unpacked/quest/out/q091.dat/q091_402dfd2e_scp.bin
+
+C 랭크 목록이 삭제되어 상위 랭크 목록까지 표시되지 않던 부분 수정
