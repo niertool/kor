@@ -1177,3 +1177,138 @@ data012.cpk_unpacked\ph2\out\p200.dat\p200_e723b449_scp.bin
 북부 12C 방위본부에서 파견된 엽병 부대다
 -->
 북부 12C 방위본부에서 파견된 용병 부대다
+
+
+117. 3회차 9S 총 공격 강하 전에 전파방해 로봇들 해킹하는 임무중 영문 수정 (명랑유저님)
+
+data002.cpk_unpacked\ph1\out\p100.dat\p100_e1dc4db4_scp.bin
+
+Fine. -> 네에～
+
+
+118. 아카이브명 및 내용, 메일 내용, 퀘스트 목표 내용, 개체 정보 및 일부 영문자막 수정 (명랑유저님)
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_ff3d446f_scp.bin
+
+data012.cpk_unpacked\st1\out\r160.dat\r160_19656865_scp.bin
+
+data012.cpk_unpacked/ph2/out/p200.dat/p200_ff3d446f_scp.bin
+
+data012.cpk_unpacked/st1/out/r160.dat/r160_19656865_scp.bin
+
+data009.cpk_unpacked/txtmess/out/txt_chapter_us.dat/txt_chapter.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_core_us.dat/txt_core.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_credit_us.dat/txt_credit.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_hud_add_us.dat/txt_hud_add.tmd
+
+data009.cpk_unpacked/txtmess/out/txt_pause_add_us.dat/txt_pause_add.tmd
+
+- 아카이브명 모두 수정, 아카이브 내용 98% 수정. 나머지 2%는 기존 번역에서 말이되도록 임의 수정.
+
+- 메일 내용 40% 수정. 나머지 60%는 기존 번역에서 말이되도록 임의 수정.
+
+- 퀘스트 목표 메시지 100% 오리지널 수정.
+
+- 스토리 진행 중, 삼림지대 입구에서 이벤트 후에 나오는 기계생명체들의 대사 중
+  "Now fight for your king!"을 각각 "우리 숲의 왕을 위해!!" 와 "숲의 왕을 위해!!"로 수정
+
+- 퀘스트 내용 일부 수정
+
+- 개체 정보 일부 수정
+
+
+119. 2B 서브퀘스트 영역 싸움 진행 중 영문 수정(적용되어 있지 않는 부분 재수정)
+
+data012.cpk_unpacked\st1\out\r160.dat\r160_19656865_scp.bin
+
+YOU DISPATCHED THE WILD ANIMALS. THANK YOU! --> 동물 무리를 해치워 줬구나, 고마워!
+
+
+120. 시스템 메세지 긴 문장 줄넘기기 및 아이템명 적용 안된 부분 재수정
+
+txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+DLC 「3 C3C1D119440927」에 관한 데이터가 삭제되었습니다.
+-->
+DLC 「3C3C1D119440927」에 관한 데이터가 삭제되었습니다.
+
+
+121. 퀘스트 진행중 필요 아이템 표기 방법 수정(적용 안된 부분 재수정)
+
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+[동광]을 0/2
+
+<ITEM_NAME> <ITEM_NUM>/<REQ_NUM>
+
+==>
+
+[동광]을 2개 (소지수: 0개)
+
+<ITEM_NAME> <REQ_NUM>개 (소지수: <ITEM_NUM>개)
+
+
+개수 표기 띄어쓰기 수정
+
+높은 곳에 있는 기계 생명체를 해킹 한다 <ENEMY_NUM>/<REQ_NUM>
+
+기계 생명체로부터 플러그인 칩을 되찾는다 <ENEMY_NUM>/<REQ_NUM>
+
+
+122. 퀘스트 설명 일부 수정
+
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+어법에 맞지 않는 부분 일부 자연스럽게 수정
+
+
+9 S, 8 B, 22 B, 64 B, 4 S, 21 O, 2 B 등등.. 띄어쓰기 잘못된 부분 일부 수정
+
+일본에서는 특정 단어를 강조할때 .. 예를 들면 나인~~~ 에스 라고 앞부분을 길게 부르는 경우가 있는데
+
+영어 표현을 그대로 가져다 쓰면서 잘못된 어법으로 표현된 것으로 예상됨.
+
+이를 그대로 직역해 놓은것으로 보고 우리나라 에서는 자주 표현되지 않으므로 수정함.
+
+오퍼레이터...  60 을 6 O (숫자0 을 알파벳O 로 표현 : 오퍼레이터 씩스 오) 영어로 통신할때 이런 표현을 쓰는데..
+
+이 부분도 일반적으로 사용되는 어법이 아니므로 수정함.
+
+
+모래의 유산 퀘스트 설명 적용 안된 부분 재수정
+
+창고지기 퀘스트 설명 수정
+
+동포들의 행방 퀘스트 설명 수정
+
+동물 간호, 영역 싸움 퀘스트 설명 수정
+
+11B의 유품 퀘스트 설명 수정
+
+데이터 해석의 귀신 퀘스트 설명 수정
+
+
+123. 문장 줄넘기기 수정
+
+data009.cpk_unpacked\txtmess\out\txt_credit.tmd
+
+저장하지 않고 타이틀 화면으로 돌아가시겠습니까?
+ 현재까지의 진행 상황을 잃게 됩니다.
+-->
+저장하지 않고 타이틀 화면으로 돌아가시겠습니까?
+현재까지의 진행 상황을 잃게 됩니다.
+
+
+124. 이름 작성 부분 수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_us.dat\txt_core.tmd
+
+「<NAME>」이 이름으로 시작하시겠습니까?
+-->
+「<NAME>」 이름으로 시작하시겠습니까?
