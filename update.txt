@@ -1312,3 +1312,35 @@ data009.cpk_unpacked\txtmess\out\txt_core_us.dat\txt_core.tmd
 「<NAME>」이 이름으로 시작하시겠습니까?
 -->
 「<NAME>」 이름으로 시작하시겠습니까?
+
+
+125. 레지스탕스 캠프 도구상 퀘스트 설명 수정
+
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+126. 레지스탕스 캠프 무기상 퀘스트 설명 수정
+
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+127. 기밀 정보 탈환 퀘스트 설명 수정
+
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+128. 로봇 도장 퀘스트 관련 NPC 설명 수정
+
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+129. 사르트르의 우울 퀘스트와 관련된 각 팬들 NPC 설명 수정
+
+data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+
+130. 로딩 화면 한글 자료 적용.
+
+data009.cpk_unpacked\ui\ui_loading.dat
+
+data009.cpk_unpacked\ui\ui_loading.dtt
