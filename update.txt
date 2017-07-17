@@ -1344,3 +1344,18 @@ data009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
 data009.cpk_unpacked\ui\ui_loading.dat
 
 data009.cpk_unpacked\ui\ui_loading.dtt
+
+
+131. 이름 작성 확인 메세지 재수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_us.dat\txt_core.tmd
+
+이름 작성시 확인 메세지 재수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_us.dat\txt_core.tmd
+
+
+「<NAME>」 이 이름으로 시작하시겠습니까?
+-->
+「<NAME>」
+이 이름으로 시작하시겠습니까?
