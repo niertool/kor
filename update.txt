@@ -1359,3 +1359,14 @@ data009.cpk_unpacked\txtmess\out\txt_core_us.dat\txt_core.tmd
 -->
 「<NAME>」
 이 이름으로 시작하시겠습니까?
+
+
+132. 9S 삼림지역 입구 진입시 기계생명체 외치는 소리 영문 수정
+
+data012.cpk_unpacked/ph2/out/p200.dat/p200_3c562f91_scp.bin
+
+각각
+
+Now fight for your king! --> 숲의 왕을 위해!!
+
+Now fight for your king! --> 우리 숲의 왕을 위해!!
