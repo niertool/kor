@@ -1370,3 +1370,36 @@ data012.cpk_unpacked/ph2/out/p200.dat/p200_3c562f91_scp.bin
 Now fight for your king! --> 숲의 왕을 위해!!
 
 Now fight for your king! --> 우리 숲의 왕을 위해!!
+
+
+133. 2회차 9S 스토리 진행중 데이터 오버홀 후, 오퍼레이터 호출 메시지 영문 수정 (20170718 명랑유저님)
+
+data012.cpk_unpacked\ph2\out\p200.dat\p200_17d05835_scp.bin
+
+Ah, 9S. -->  앗, 9S
+
+
+134. 줄 정렬, 내용 및 오타 수정 (20170718 명랑유저님)
+
+ata009.cpk_unpacked\txtmess\out\txt_core_add_us.dat\txt_core_add.tmd
+
+ata009.cpk_unpacked\txtmess\out\txt_core_us.dat\txt_core.tmd
+
+ata009.cpk_unpacked\txtmess\out\txt_pause_add_us.dat\txt_pause_add.tmd
+
+ata009.cpk_unpacked\txtmess\out\txt_pause_us.dat\txt_pause.tmd
+
+
+- 아카이브 줄 정렬 및 오타 수정.
+
+- 웨폰 스토리 줄 정렬 및 오타 수정.
+
+- 낚시 도감 줄 정렬
+
+- 메일 일부 줄 정렬 및 내용 일부 수정.
+
+- 진행 상황을 저장할때의 시스템 메세지 수정
+
+재개시는 근처의 액세스 포인트에서 재개합니다
+
+--> 최근 액세스 포인트에서 계속됩니다
