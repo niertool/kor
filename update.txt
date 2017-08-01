@@ -1403,3 +1403,130 @@ ata009.cpk_unpacked\txtmess\out\txt_pause_us.dat\txt_pause.tmd
 재개시는 근처의 액세스 포인트에서 재개합니다
 
 --> 최근 액세스 포인트에서 계속됩니다
+
+
+135. 한글 자료 파일 위치 수정
+
+data019.cpk 의 언팩 후 한글 수정 자료 파일들의 위치를 novel 폴더로 변경.
+
+data019.cpk 파일이 언팩 후에 별도의 폴더가 없었기 때문에 파일들의 위치가 잘못됨.
+
+M1030_S0310_N_eng.txt
+M1070_S0020_N_eng.txt
+M1070_S0040_N_eng.txt
+M1070_S0060_N_eng.txt
+M1070_S0080_N_eng.txt
+M1070_S0100_N_eng.txt
+M3060_S0005_N_eng.txt
+M3060_S0035_GM_N_eng.txt
+M3060_S0910_N_eng.txt
+M6010_S0050_N_eng.txt
+M6010_S0150_N_eng.txt
+M6010_S0250_N_eng.txt
+
+12개 파일들을 novel 폴더로 이동하여 추가
+
+
+136. 1회차 엔딩 후 시스템 메세지 글자 줄 맞춤
+
+data009.cpk_unpacked\txtmess\out\txt_core_us.dat\txt_core.tmd
+
+클리어한 데이터를 이어서 플레이하시려면
+ 「Continue」에서 저장 데이터를 불러오십시오.
+
+-->
+
+   클리어한 데이터를 이어서 플레이하시려면
+「Continue」 에서 저장 데이터를 불러오십시오.
+
+가운데 정렬 인 것처럼 맞춤
+
+
+137. 1회차 폐허 도시에 출현한 대형 로봇(엥겔스) 전투에서 비행유닛에 탑승하기 위해
+
+건물 옥상으로 올라가지 않고 지상에서 적을 처치했을때 아군 무전 연락중
+
+data002.cpk_unpacked\ph1\out\p100.dat\p100_9b15340d_scp.bin
+
+Ah! --> 아……!!
+
+
+138. 2회차 9S 프롤로그 거의 마지막에 9S 가 엥겔스 위로 떨어지고 스스로 해킹해서
+시각,청각 회복하는중 해킹 화면에서 2B 가 9S 를 부르는 자막
+
+data012.cpk_unpacked\quest\out\qac8.dat\qac8_fd8ac7ea_scp.bin
+
+……9 --> ……９Ｓ！ --> ……9S!
+
+S 와 ! 가 특수문자라서 표시가 안되고 있었음.
+
+
+139. 3회차 데볼,포폴 도움으로 탑에 들어가기 전 띄어쓰기 수정
+
+data009.cpk_unpacked\subtitle\out\subtitle1091_us.dat\subtitle1090.smd
+data009.cpk_unpacked\subtitle\out\subtitle1091_us.dat\subtitle1091.smd
+
+넌『탑』으로 가는 문을 열어
+-->
+넌 『탑』으로 가는 문을 열어
+
+
+140. 사르트르의 우울 퀘스트 진행중 팬의 편지,선물을 받아와서 9S 가 사르트르를 부를때
+
+data012.cpk_unpacked\quest\out\q020.dat\q020_404eba3d_scp.bin
+
+那個～ --> 저기~
+
+何？ --> 뭐지?
+
+한문 및 특수문자로 표시가 안되고 있었음.
+
+
+141. 현자로봇 서브퀘스트 진행중 한자 및 특수문자 표시 안되던 부분 수정
+
+data012.cpk_unpacked\quest\out\q360.dat\q360_8efed5ef_scp.bin
+
+이봐～ 안녕～ --> 이봐~ 안녕~
+
+喂～你好～ --> 이봐~ 안녕~
+
+
+142. 아네모네의 과거 서브퀘스트 완료 후 2B, 9S 대화중 자막 표시 안되는 부분 수정
+
+data012.cpk_unpacked\quest\out\q123.dat\q123_6fde04e_scp.bin
+
+９…… --> ９Ｓ，說不定…… --> 9S, 너도……
+
+
+143. 언니놀아줘 서브퀘스트 진행 마지막 부분 수정
+
+data012.cpk_unpacked\quest\out\q221.dat\q221_b113244a_scp.bin
+
+謝謝妳！ --> 고마워!!
+
+한자 및 특수문자 표시가 안되고 있었음.
+
+
+144. 3회차 완료 후 시스템 메세지 줄넘기기 수정
+
+data009.cpk_unpacked\txtmess\out\txt_credit_us.dat\txt_credit.tmd
+
+『챕터 선택』을 사용할 수 있게 되었습니다.스타트 메뉴와 액세스 포인트에서 선택할 수 있습니다.
+-->
+『챕터 선택』을 사용할 수 있게 되었습니다.
+스타트 메뉴와 액세스 포인트에서 선택할 수 있습니다.
+
+
+145. 3회차 마지막 9S, A2 결투 직전 줄넘기기 수정
+
+data009.cpk_unpacked\subtitle\out\subtitle1220_us.dat\subtitle1220.smd
+data009.cpk_unpacked\subtitle\out\subtitle1221_us.dat\subtitle1221.smd
+
+이 명령은 A2나 나 어느 한쪽의 생명 활동 정지가
+
+ 확인될 때까지 유지해!
+
+-->
+
+이 명령은 A2나 나 어느 한쪽의 생명 활동 정지가
+확인될 때까지 유지해!
