@@ -1530,3 +1530,10 @@ data009.cpk_unpacked\subtitle\out\subtitle1221_us.dat\subtitle1221.smd
 
 이 명령은 A2나 나 어느 한쪽의 생명 활동 정지가
 확인될 때까지 유지해!
+
+
+155. 기본 폰트 교체
+
+data009.cpk_unpacked\font
+
+나눔바른고딕(테두리효과)
