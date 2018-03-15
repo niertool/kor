@@ -1537,3 +1537,21 @@ data009.cpk_unpacked\subtitle\out\subtitle1221_us.dat\subtitle1221.smd
 data009.cpk_unpacked\font
 
 나눔바른고딕(테두리효과)
+
+
+147. 띄어쓰기 수정
+
+data009.cpk_unpacked\txtmess\out\txt_hud_add_us.dat\txt_hud_add.tmd
+
+
+148. E엔딩 후 세이브 삭제엔딩 포드 대화
+
+data012.cpk_unpacked\ph3\out\p300.dat\p300_7de5c329_scp.bin
+
+data012.cpk_unpacked\phf\out\pf10.dat\pf10_7de5c329_scp.bin
+
+Do you, faithful player <player name>, --> <player name>……
+
+Do you...still wish to help? --> 그래도, 돕고 싶은가?
+
+……。 --> ……我知道了。 --> ……알겠다
