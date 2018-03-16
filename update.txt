@@ -1555,3 +1555,8 @@ Do you, faithful player <player name>, --> <player name>……
 Do you...still wish to help? --> 그래도, 돕고 싶은가?
 
 ……。 --> ……我知道了。 --> ……알겠다
+
+
+149. 플러그인 칩 이름 변경
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
