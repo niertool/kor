@@ -1565,3 +1565,43 @@ data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
 150. E엔딩 지원메세지 띄어쓰기 수정
 
 data009.cpk_unpacked\txtmess\out\txt_support_us.dat\txt_support.tmd
+
+
+151. 다잉메세지 코맨트 수정
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+
+152. UI 및 메뉴 한글화 추가
+
+data009.cpk_unpacked\ui
+
+ui_chapter_us.dat
+ui_chapter_us.dtt
+
+ui_core_2_us.dat
+ui_core_2_us.dtt
+
+ui_core_pc_us.dat
+ui_core_pc_us.dtt
+
+ui_core_us.dat
+ui_core_us.dtt
+
+ui_dbg_us.dat
+ui_dbg_us.dtt
+
+ui_hud_hacking_us.dat
+ui_hud_hacking_us.dtt
+
+ui_hud_us.dat
+ui_hud_us.dtt
+
+ui_option_us.dat
+ui_option_us.dtt
+
+ui_pause_us.dat
+ui_pause_us.dtt
+
+ui_shop_us.dat
+ui_shop_us.dtt
