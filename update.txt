@@ -1605,3 +1605,8 @@ ui_pause_us.dtt
 
 ui_shop_us.dat
 ui_shop_us.dtt
+
+
+153. 다잉메세지 코맨트 수정
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
