@@ -1610,3 +1610,9 @@ ui_shop_us.dtt
 153. 다잉메세지 코맨트 수정
 
 data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+
+154. 네트워크 사망메세지 설정시 어순을 영문 어순으로 수정
+(한글 어순으로 맞추면 버그가 생기고, 게임중 다른 유저 의체 회수시는 한글 어순으로 표시됨)
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
