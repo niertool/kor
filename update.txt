@@ -1636,3 +1636,8 @@ data009.cpk_unpacked/ui/ui_pause_us.dat
 158. UI 사르트르 표시 이름 추가 수정(Jean-Paul <--> 사르트르 목록 번호 수정)
 
 data009.cpk_unpacked/ui/ui_pause_us.dat
+
+
+159. UI 아이템 이름 영문판과 한글판이 다른부분 맞추어 수정
+
+data009.cpk_unpacked/ui/ui_core_us.dat
