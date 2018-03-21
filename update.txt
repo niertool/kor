@@ -1646,3 +1646,10 @@ data009.cpk_unpacked/ui/ui_core_us.dat
 160. UI 에너미 이름 영문판과 한글판이 다른부분 맞추어 수정
 
 data009.cpk_unpacked/ui/ui_core_2_us.dat
+
+
+161. 정보 수집 부대 퀘스트 대화 내용 수정(한글판 에서는 표시되지 않는 자막)
+
+data012.cpk_unpacked/quest/out/q550.dat/q550_688e8050_scp.bin
+
+Let me know if you find any more data, all right? --> 또 다른 데이터를 찾게 되면 알려줘, 알았지?
