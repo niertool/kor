@@ -1621,3 +1621,13 @@ data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
 155. UI 퀘스트 목록에서 사르트르의 우울 표시 안됨(Jean-Paul <--> 사르트르 목록 번호 수정)
 
 data009.cpk_unpacked/ui/ui_pause_us.dat
+
+
+156. UI 개체 데이터 사르트르 이름 표시 안됨(Jean-Paul <--> 사르트르 목록 번호 수정)
+
+data009.cpk_unpacked/ui/ui_pause_us.dat
+
+
+157. UI 개체 데이터 특수개체 보부아르 이름 표시 안됨(영문 <--> 한글 목록 번호 수정)
+
+data009.cpk_unpacked/ui/ui_pause_us.dat
