@@ -1641,3 +1641,8 @@ data009.cpk_unpacked/ui/ui_pause_us.dat
 159. UI 아이템 이름 영문판과 한글판이 다른부분 맞추어 수정
 
 data009.cpk_unpacked/ui/ui_core_us.dat
+
+
+160. UI 에너미 이름 영문판과 한글판이 다른부분 맞추어 수정
+
+data009.cpk_unpacked/ui/ui_core_2_us.dat
