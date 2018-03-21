@@ -1631,3 +1631,8 @@ data009.cpk_unpacked/ui/ui_pause_us.dat
 157. UI 개체 데이터 특수개체 보부아르 이름 표시 안됨(영문 <--> 한글 목록 번호 수정)
 
 data009.cpk_unpacked/ui/ui_pause_us.dat
+
+
+158. UI 사르트르 표시 이름 추가 수정(Jean-Paul <--> 사르트르 목록 번호 수정)
+
+data009.cpk_unpacked/ui/ui_pause_us.dat
