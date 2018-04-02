@@ -1659,3 +1659,11 @@ Let me know if you find any more data, all right? --> 또 다른 데이터를 �
 
 data009.cpk_unpacked/ui/ui_title_us.dat
 data009.cpk_unpacked/ui/ui_title_us.dtt
+
+
+163. 메일내용 수정
+
+data009.cpk_unpacked/ui/txt_pause_add_us.dat
+
+PAUSE_MAIL_BODY_016
+수년 년이 지났다. --> 수천 년이 지났다.
