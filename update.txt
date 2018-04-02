@@ -1672,3 +1672,8 @@ PAUSE_MAIL_BODY_016
 164. 폰트 교체(드림폰트4)
 
 data009.cpk_unpacked\font
+
+
+165. 폰트 크기 수정
+
+data009.cpk_unpacked\font
