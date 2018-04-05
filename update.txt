@@ -1687,3 +1687,15 @@ data009.cpk_unpacked\font
 166. 폰트 수정
 
 data009.cpk_unpacked\font
+
+
+167. 폰트 너비 간격 수정
+
+data009.cpk_unpacked\font
+
+
+168. 메일 내용 수정
+
+data009.cpk_unpacked/txtmess/out/txt_pause_add_us.dat/txt_pause_add.tmd
+
+data100.cpk_unpacked/txtmess/out/txt_dlc1_us.dat/txt_dlc1.tmd
