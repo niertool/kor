@@ -1699,3 +1699,18 @@ data009.cpk_unpacked\font
 data009.cpk_unpacked/txtmess/out/txt_pause_add_us.dat/txt_pause_add.tmd
 
 data100.cpk_unpacked/txtmess/out/txt_dlc1_us.dat/txt_dlc1.tmd
+
+
+169. 폰트 아웃라인 수정
+
+data009.cpk_unpacked\font
+
+
+170. 퀘스트 진행 도움말 줄넘기기 수정
+
+data009.cpk_unpacked/txtmess/out/xt_core_add_us.dat/txt_core_add.tmd
+
+
+171. Continue --> Load Game
+
+data009.cpk_unpacked/txtmess/out/txt_core_us.dat/txt_core.tmd
