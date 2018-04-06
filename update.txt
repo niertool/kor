@@ -1719,3 +1719,13 @@ data009.cpk_unpacked/txtmess/out/txt_core_us.dat/txt_core.tmd
 172. 퀘스트 진행 도움말 줄넘기기 수정
 
 data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat/txt_core_add.tmd
+
+
+173. 퀘스트 진행 도움말 줄넘기기 수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat/txt_core_add.tmd
+
+
+174. 폰트 간격 및 아웃라인 수정
+
+data009.cpk_unpacked\font
