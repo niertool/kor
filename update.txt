@@ -1736,3 +1736,32 @@ data009.cpk_unpacked\font
 data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat/txt_core_add.tmd
 
 data009.cpk_unpacked\font
+
+
+176. 폰트 기호문자 수정 및 진행 도움말 줄넘기기 수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat/txt_core_add.tmd
+
+data009.cpk_unpacked\font
+
+
+177. 3회차 영문 대화 수정
+
+data012.cpk_unpacked/ph3/out/p300.dat/p300_fe415e44_scp.bin
+
+We're on our way. --> 지금부터 그쪽을 원호하겠다
+
+This is unit 2B. --> 여긴 2B, 유격 부대
+
+Roger, 2B. Much appreciated. --> 알겠다, 감사한다
+
+Roger, 2B. Much appreciated. --> 저희는 다음 부대를 원호하러 가겠습니다!
+
+All right. --> 알겠다
+
+
+178. 1회차 프롤로그 마지막 부분 일어 자막 수정
+
+data002.cpk_unpacked/ph1/out/p100.dat/p100_54edd5c_scp.bin
+
+司令部への応援要請！ --> 9S!!
