@@ -1765,3 +1765,17 @@ All right. --> 알겠다
 data002.cpk_unpacked/ph1/out/p100.dat/p100_54edd5c_scp.bin
 
 司令部への応援要請！ --> 9S!!
+
+
+179. 메인퀘스트 진행 도움말 및 글자크기 수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat/txt_core_add.tmd
+
+메인퀘스트 진행 도움말 글자 크기 수정
+
+data009.cpk_unpacked/ui/ui_hud_us.dat/hud0101.uid
+
+글자 크기 CFE : 4C --> 44
+글자 크기 D02 : 4C --> 44
+
+상하 간격 CFA : F4 --> F6
