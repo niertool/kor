@@ -1779,3 +1779,8 @@ data009.cpk_unpacked/ui/ui_hud_us.dat/hud0101.uid
 글자 크기 D02 : 4C --> 44
 
 상하 간격 CFA : F4 --> F6
+
+
+180. 퀘스트 진행 도움말 줄넘기기 수정
+
+data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat/txt_core_add.tmd
