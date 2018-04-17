@@ -1783,4 +1783,41 @@ data009.cpk_unpacked/ui/ui_hud_us.dat/hud0101.uid
 
 180. 퀘스트 진행 도움말 줄넘기기 수정
 
-data009.cpk_unpacked\txtmess\out\txt_core_add_us.dat/txt_core_add.tmd
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+
+181. 아이템 이름 수정
+
+data009.cpk_unpacked/txtmess/out/txt_core_add_us.dat/txt_core_add.tmd
+
+흰색의 책 --> 백의 서
+
+기계생명체의 쓰개 --> 기계생명체의 머리
+
+밸브:왼쪽 눈 --> 밸브: 왼쪽
+
+밸브:오른쪽 눈 --> 밸브: 오른쪽
+
+밸브:두 눈 --> 밸브: 양쪽
+
+밸브:머리 --> 밸브: 머리
+
+배송용 골판지 --> 배송용 상자
+
+레트르레드 --> 레트로 레드
+
+레트르회색 --> 레트로 그레이
+
+
+data100.cpk_unpacked/txtmess\out/txt_dlc1_us.dat/txt_dlc1.tmd
+
+"<ITEM_NAME>" 을 사용하여 플레이어 레벨을 낮추시겠습니까?
+--> "금단의 과실" 을 사용하여 플레이어 레벨을 낮추시겠습니까?
+
+
+182. 영문 수정
+
+data012.cpk_unpacked/ph2/out/p200.dat/p200_1cc100aa_scp.bin
+
+Ah, 9S... --> 아아…… 9S……
+
